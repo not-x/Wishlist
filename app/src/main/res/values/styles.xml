@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme">
+        <item name="android:background">#ffd1b7</item>
+        <item name="android:actionBarStyle">@style/ColorBar</item>
+    </style>
+
+    <style name="ColorBar">
+        <item name="android:background">#ff5e00</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="LargeFont">
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="LargeFont.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="MediumFont">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="MediumFont.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="SmallFont">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+</resources>
